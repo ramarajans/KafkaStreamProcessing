@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KafkaStreamProcessing", "KafkaConsumer\KafkaStreamProcessing.csproj", "{DE68AE06-AC96-4F5E-80EE-F9B781542ECB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE68AE06-AC96-4F5E-80EE-F9B781542ECB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE68AE06-AC96-4F5E-80EE-F9B781542ECB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE68AE06-AC96-4F5E-80EE-F9B781542ECB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE68AE06-AC96-4F5E-80EE-F9B781542ECB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B7746D1-389A-402D-8096-EC1B11C808D9}
+	EndGlobalSection
+EndGlobal
